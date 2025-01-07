@@ -3,7 +3,7 @@
   <h3 align="center">Data Scientist & AI Engineer</h3>
 
   <!-- Image related to Data Science -->
-  <img src="https://your-image-hosting-url-here.jpg" alt="Data Science" style="width:100%; height:auto;">
+  <img src="https://drive.google.com/uc?id=1cfibe3k7D78yCx_cK0YK_doIAd5UOWf_" alt="Your Image" style="width:100%; height:auto;">
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaml4843&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaml4843" /> </p>
 
@@ -105,4 +105,3 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhaml4843&show_icons=true&locale=en" alt="shubhaml4843" /></p>
 </div>
 
-  
