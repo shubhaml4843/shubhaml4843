@@ -30,7 +30,7 @@
     - NLTK  
     - AWS  
     - Transformer  
-    - ETL  
+    - RAG  
     - AWS SageMaker  
     - Business Requirement Analysis  
     - ANN (Artificial Neural Networks)  
