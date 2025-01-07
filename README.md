@@ -1,22 +1,20 @@
-<div style="background-image: url('https://your-image-hosting-url-here.jpg'); background-size: cover; background-position: center; padding: 50px; height: 100vh;">
-  <h1 align="center">Hi 👋, I'm Shubham Lokare</h1>
-  <h3 align="center">Data Scientist & AI Engineer</h3>
+<div style="background-image: url('https://drive.google.com/uc?id=1cfibe3k7D78yCx_cK0YK_doIAd5UOWf_'); background-size: cover; background-position: center; padding: 50px; height: 100vh;">
+  <h1 align="center" style="color: white;">Hi 👋, I'm Shubham Lokare</h1>
+  <h3 align="center" style="color: white;">Data Scientist & AI Engineer</h3>
 
   <!-- Image related to Data Science -->
-  <img src="https://drive.google.com/uc?id=1cfibe3k7D78yCx_cK0YK_doIAd5UOWf_" alt="Your Image" style="width:100%; height:auto;">
+  <img src="https://drive.google.com/uc?id=1cfibe3k7D78yCx_cK0YK_doIAd5UOWf_" alt="Your Image" style="width:100%; height:auto; display:none;">
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhaml4843&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaml4843" /> </p>
+  <p align="left" style="color: white;">- 📫 How to reach me **shubhamlokare4843@gmail.com**</p>
 
-  - 📫 How to reach me **shubhamlokare4843@gmail.com**
-
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left" style="color: white;">Connect with me:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/shubham-lokare-29b104212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-lokare-29b104212" height="30" width="40" /></a>
     <a href="https://github.com/shubhaml4843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shubhaml4843" height="30" width="40" /></a>
   </p>
 
-  <h3 align="left">Skills:</h3>
-  <p align="left">
+  <h3 align="left" style="color: white;">Skills:</h3>
+  <p align="left" style="color: white;">
     - Python  
     - Machine Learning  
     - SQL  
@@ -57,7 +55,7 @@
     - NLP (Natural Language Processing)
   </p>
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left" style="color: white;">Languages and Tools:</h3>
   <p align="left"> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
