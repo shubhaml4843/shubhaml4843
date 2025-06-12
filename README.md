@@ -11,7 +11,7 @@
 
   <h3 align="left" style="color: white;">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/shubham-lokare-29b104212/" target="blank">
+    <a href="https://www.linkedin.com/in/shubhamlokare-aiengineer/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://github.com/shubhaml4843" target="blank">
