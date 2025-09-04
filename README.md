@@ -1,6 +1,6 @@
 <div style="background-image: url('https://drive.google.com/uc?id=1cfibe3k7D78yCx_cK0YK_doIAd5UOWf_'); background-size: cover; background-position: center; padding: 50px; height: 100vh;">
   <h1 align="center" style="color: #FFD700; font-size: 3em; font-weight: bold;">Hi 👋, I'm Shubham Lokare</h1>
-  <h3 align="center" style="color: #00CED1; font-size: 2em;">Data Scientist & AI Engineer</h3>
+  <h3 align="center" style="color: #00CED1; font-size: 2em;">Gen AI Enginerr & AI Engineer</h3>
 
   <p align="left" style="color: white; font-size: 18px;">
     - 📫 How to reach me 
