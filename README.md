@@ -21,48 +21,145 @@
 
   <h3 align="left" style="color: white;">Skills:</h3>
   <p align="left" style="color: white;">
-    - Python  
-    - Machine Learning  
-    - Langchain
-    - Langgraph
-    - RAG
-    - Vector DataBase
-    - SQL  
-    - OpenCV  
-    - Computer Vision  
-    - BERT  
-    - NLTK  
-    - AWS  
-    - Transformer  
-    - RAG  
-    - AWS SageMaker  
-    - Business Requirement Analysis  
-    - ANN (Artificial Neural Networks)  
-    - Regression  
-    - Data Visualization  
-    - Deep Learning  
-    - LLM (Large Language Models)  
-    - LangChain  
-    - RNN (Recurrent Neural Networks)  
-    - YOLO  
-    - Power BI  
-    - Cluster Analysis  
-    - CNN (Convolutional Neural Networks)  
-    - Keras  
-    - GenAI  
-    - TensorFlow  
-    - Numpy  
-    - Statistical Analysis  
-    - PyTorch  
-    - Pandas  
-    - Matplotlib  
-    - Scikit-learn  
-    - PySpark  
-    - Data Analytics  
-    - Streamlit  
-    - Jupyter Notebook  
-    - Exploratory Data Analysis (EDA)  
-    - NLP (Natural Language Processing)
+    Python
+Machine Learning (ML)
+Deep Learning (DL)
+
+Generative AI (GenAI)
+
+Chatbots
+
+LLMs (Large Language Models)
+
+RLHF (Reinforcement Learning from Human Feedback)
+
+LoRA / Q-LoRA
+
+Diffusion Models
+
+GANs (Generative Adversarial Networks)
+
+VAEs (Variational Autoencoders)
+
+RAG (Retrieval-Augmented Generation)
+
+RAG Pipelines
+
+Agentic AI
+
+Multimodal AI
+
+Embeddings
+
+Transformers
+
+Prompt Engineering
+
+Advanced Prompting
+
+Few-shot Learning
+
+ReAct
+
+Chain-of-Thought (CoT)
+
+Tree-of-Thought (ToT)
+
+Evaluation Metrics (BLEU, ROUGE)
+
+NLP (Natural Language Processing)
+
+Computer Vision
+
+OpenCV
+
+YOLO
+
+BERT
+
+LSTM
+
+CNN (Convolutional Neural Networks)
+
+RNN (Recurrent Neural Networks)
+
+ANN (Artificial Neural Networks)
+
+Regression
+
+Clustering
+
+Dimensionality Reduction
+
+Ensemble Learning
+
+Random Forest
+
+XGBoost
+
+LightGBM
+
+SVM
+
+Statistical Analysis
+
+Data Analytics
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+PyTorch
+
+TensorFlow
+
+Keras
+
+PySpark
+
+SQL
+
+Power BI
+
+Streamlit
+
+Jupyter Notebook
+
+LangChain
+
+LangGraph
+
+AutoGen
+
+LLM Orchestration
+
+Multimodal Orchestrators (LlamaIndex, Haystack)
+
+OpenAI API
+
+Ollama API
+
+Cohere API
+
+MCP (Model Context Protocol)
+
+Vector Databases (FAISS, Pinecone, Weaviate)
+
+AWS (EC2, S3, Lambda, SageMaker)
+
+Docker
+
+Git
+
+Nginx
+
+Business Requirement Analysis
   </p>
 
   <h3 align="left" style="color: white;">Languages and Tools:</h3>
