@@ -23,6 +23,10 @@
   <p align="left" style="color: white;">
     - Python  
     - Machine Learning  
+    - Langchain
+    - Langgraph
+    - RAG
+    - Vector DataBase
     - SQL  
     - OpenCV  
     - Computer Vision  
